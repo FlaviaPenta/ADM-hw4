@@ -2,6 +2,10 @@
 
 **Goal of the homework**: write important algorithms and functions from scratch.
 
+This repository contains: 
+- main.ipynb (explained codes and output we obtained)
+- cleaning.rar (a .rar file containing clean_text.csv, that is our csv that we created with all the clean reviews' texts)
+
 ## 1. Hashing
 
 For this task, we are dealing with hashing algorithms. In particular you will implement **hash functions** and an algorithm called [***HyperLogLog***](https://medium.com/@raghavan99o/hyperloglog-algorithm-part-ii-the-loglog-algorithm-6cdf33132331) (HLL). [This reference](https://pangaj.github.io/HyperLogLog/) may be useful also.
